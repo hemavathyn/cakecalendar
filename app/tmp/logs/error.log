@@ -1,0 +1,2229 @@
+2014-04-30 11:28:47 Error: [MissingControllerException] Controller class PhpmyadminController could not be found.
+Exception Attributes: array (
+  'class' => 'PhpmyadminController',
+  'plugin' => NULL,
+)
+Request URL: /CALENDARCAKE/phpmyadmin
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-30 14:05:41 Error: Fatal Error (4): syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 6]
+2014-04-30 14:05:41 Error: [FatalErrorException] syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$'
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 6, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 6, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 14:47:28 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 41]
+2014-04-30 14:47:28 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 41)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 41, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 41, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 14:48:12 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 43]
+2014-04-30 14:48:12 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 14:48:51 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 43]
+2014-04-30 14:48:51 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 14:53:10 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 43]
+2014-04-30 14:53:10 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:20:54 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 43]
+2014-04-30 15:20:54 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:21:02 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 43]
+2014-04-30 15:21:02 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:21:09 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 43]
+2014-04-30 15:21:09 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:21:18 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 43]
+2014-04-30 15:21:18 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 43, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:25:28 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 59]
+2014-04-30 15:25:28 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 59, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 59, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:26:42 Error: Fatal Error (4): syntax error, unexpected 'days' (T_STRING) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 81]
+2014-04-30 15:26:42 Error: [FatalErrorException] syntax error, unexpected 'days' (T_STRING)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 81)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 81, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 81, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:29:37 Error: Fatal Error (4): syntax error, unexpected 'days' (T_STRING) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 81]
+2014-04-30 15:29:37 Error: [FatalErrorException] syntax error, unexpected 'days' (T_STRING)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 81)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 81, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 81, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:31:32 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 81]
+2014-04-30 15:31:32 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 81)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 81, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 81, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:36:23 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 76]
+2014-04-30 15:36:23 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:44:17 Error: Fatal Error (4): syntax error, unexpected 'days' (T_STRING) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 76]
+2014-04-30 15:44:17 Error: [FatalErrorException] syntax error, unexpected 'days' (T_STRING)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:45:02 Error: Fatal Error (4): syntax error, unexpected '.', expecting ')' in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 76]
+2014-04-30 15:45:02 Error: [FatalErrorException] syntax error, unexpected '.', expecting ')'
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 15:52:57 Error: Fatal Error (1): Call to undefined method View::redirect() in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\calendar.ctp, line 77]
+2014-04-30 15:52:57 Error: [FatalErrorException] Call to undefined method View::redirect()
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\xampp\htdocs...', 77, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\xampp\htdocs...', 77, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-30 16:09:52 Error: [MissingActionException] Action EventsController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'css',
+)
+Request URL: /CALENDARCAKE/events/css/fullcalendar.print.css
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:09:52 Error: [MissingActionException] Action EventsController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'js',
+)
+Request URL: /CALENDARCAKE/events/js/jquery-ui-1.10.3.custom.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:09:52 Error: [MissingActionException] Action EventsController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'css',
+)
+Request URL: /CALENDARCAKE/events/css/fullcalendar.css
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:09:52 Error: [MissingActionException] Action EventsController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'js',
+)
+Request URL: /CALENDARCAKE/events/js/fullcalendar.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:09:55 Error: [MissingActionException] Action EventsController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'js',
+)
+Request URL: /CALENDARCAKE/events/js/jquery-ui-1.10.3.custom.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:09:55 Error: [MissingActionException] Action EventsController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'css',
+)
+Request URL: /CALENDARCAKE/events/css/fullcalendar.print.css
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:09:55 Error: [MissingActionException] Action EventsController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'css',
+)
+Request URL: /CALENDARCAKE/events/css/fullcalendar.css
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:09:55 Error: [MissingActionException] Action EventsController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'js',
+)
+Request URL: /CALENDARCAKE/events/js/fullcalendar.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:36:30 Error: [MissingActionException] Action EventsController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'css',
+)
+Request URL: /CALENDARCAKE/events/css/fullcalendar.css
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:36:30 Error: [MissingActionException] Action EventsController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'css',
+)
+Request URL: /CALENDARCAKE/events/css/fullcalendar.print.css
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:36:30 Error: [MissingActionException] Action EventsController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'js',
+)
+Request URL: /CALENDARCAKE/events/js/jquery-ui-1.10.3.custom.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:36:30 Error: [MissingActionException] Action EventsController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'js',
+)
+Request URL: /CALENDARCAKE/events/js/fullcalendar.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:36:30 Error: [MissingActionException] Action EventsController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'css',
+)
+Request URL: /CALENDARCAKE/events/css/fullcalendar.css
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:36:30 Error: [MissingActionException] Action EventsController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'css',
+)
+Request URL: /CALENDARCAKE/events/css/fullcalendar.print.css
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-30 16:39:13 Error: [MissingActionException] Action EventsController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'js',
+)
+Request URL: /CALENDARCAKE/events/js/jquery-ui-1.10.3.custom.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 08:54:12 Error: [MissingActionException] Action EventsController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 08:58:29 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\full_calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\full_calendar.ctp',
+)
+Request URL: /CALENDARCAKE/events/fullCalendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 09:02:11 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\full_calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\full_calendar.ctp',
+)
+Request URL: /CALENDARCAKE/events/fullCalendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 09:04:17 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\full_calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\full_calendar.ctp',
+)
+Request URL: /CALENDARCAKE/events/fullCalendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 09:04:25 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\full_calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\full_calendar.ctp',
+)
+Request URL: /CALENDARCAKE/events/fullCalendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 09:05:21 Error: [MissingActionException] Action EventsController::full_Calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'full_Calendar',
+)
+Request URL: /CALENDARCAKE/events/full_Calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 09:08:28 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\full__calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\full__calendar.ctp',
+)
+Request URL: /CALENDARCAKE/events/full_Calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 09:10:19 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\full__calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\full__calendar.ctp',
+)
+Request URL: /CALENDARCAKE/events/full_Calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 09:14:27 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\full__calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\full__calendar.ctp',
+)
+Request URL: /CALENDARCAKE/events/full_Calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 09:15:41 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\full__calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\full__calendar.ctp',
+)
+Request URL: /CALENDARCAKE/events/full_Calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 09:22:26 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\calendar.ctp',
+)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 12:03:31 Error: [MissingHelperException] Helper class AdminHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AdminHelper',
+  'plugin' => false,
+)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(873): HelperCollection->load('Admin', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(347): View->loadHelpers()
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(1241): View->__construct(Object(EventsController))
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(940): Controller->_getViewObject()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-01 12:04:09 Error: Fatal Error (1): Call to a member function link() on a non-object in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\calendar.ctp, line 3]
+2014-05-01 12:04:09 Error: [FatalErrorException] Call to a member function link() on a non-object
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 3, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 3, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:05:30 Error: Fatal Error (1): Call to a member function link() on a non-object in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\calendar.ctp, line 4]
+2014-05-01 12:05:30 Error: [FatalErrorException] Call to a member function link() on a non-object
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:31:03 Error: Fatal Error (4): syntax error, unexpected '$rows' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 91]
+2014-05-01 12:31:03 Error: [FatalErrorException] syntax error, unexpected '$rows' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:36:57 Error: Fatal Error (1): Call to a member function link() on a non-object in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\calendar.ctp, line 4]
+2014-05-01 12:36:57 Error: [FatalErrorException] Call to a member function link() on a non-object
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:38:12 Error: Fatal Error (1): Call to a member function link() on a non-object in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\calendar.ctp, line 4]
+2014-05-01 12:38:12 Error: [FatalErrorException] Call to a member function link() on a non-object
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 12:38:21 Error: Fatal Error (1): Call to a member function link() on a non-object in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\calendar.ctp, line 4]
+2014-05-01 12:38:21 Error: [FatalErrorException] Call to a member function link() on a non-object
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:06:09 Error: Fatal Error (1): Call to a member function link() on a non-object in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\calendar.ctp, line 4]
+2014-05-01 13:06:09 Error: [FatalErrorException] Call to a member function link() on a non-object
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:06:12 Error: Fatal Error (1): Call to a member function link() on a non-object in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\calendar.ctp, line 4]
+2014-05-01 13:06:12 Error: [FatalErrorException] Call to a member function link() on a non-object
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 4, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:33:19 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 13:33:19 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:38:02 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 13:38:02 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:53:07 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 13:53:07 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:53:11 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 13:53:11 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:53:12 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 13:53:12 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:53:13 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 13:53:13 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:53:14 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 13:53:14 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 13:53:28 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 13:53:28 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 14:16:16 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 14:16:16 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 14:16:21 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 14:16:21 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 14:16:44 Error: [MissingLayoutException] Layout file "C:\xampp\htdocs\CALENDARCAKE\app\View\Layouts\empty.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Layouts\\empty.ctp',
+)
+Request URL: /CALENDARCAKE/events/add
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(504): View->_getLayoutFileName('empty')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(474): View->renderLayout('', 'empty')
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-05-01 14:20:58 Error: [MissingLayoutException] Layout file "C:\xampp\htdocs\CALENDARCAKE\app\View\Layouts\empty.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Layouts\\empty.ctp',
+)
+Request URL: /CALENDARCAKE/events/add
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(504): View->_getLayoutFileName('empty')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(474): View->renderLayout('', 'empty')
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-05-01 14:21:12 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php, line 843]
+2014-05-01 14:21:12 Error: [FatalErrorException] Cannot access empty property
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\xampp\htdocs...', 843, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 15:24:39 Error: [MissingActionException] Action EventsController::event() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'event',
+)
+Request URL: /CALENDARCAKE/events/event?start=1398537000&end=1402165800&_=1398950679352
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-01 15:28:12 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\event.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\event.ctp',
+)
+Request URL: /CALENDARCAKE/events/event?start=1398537000&end=1402165800&_=1398950892283
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 15:28:50 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\event.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\event.ctp',
+)
+Request URL: /CALENDARCAKE/events/event?start=1398537000&end=1402165800&_=1398950930435
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 15:37:14 Error: Fatal Error (64): Cannot use [] for reading in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 12]
+2014-05-01 15:37:14 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', 'C:\xampp\htdocs...', 12)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', 'C:\xampp\htdocs...', 12, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', 'C:\xampp\htdocs...', 12, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-01 15:51:38 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\add_event.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\add_event.ctp',
+)
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 15:51:46 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /CALENDARCAKE/events/update_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('update', Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('update', Array, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(609): DboSource->fetchAll('update', Array, Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(800): DboSource->query('update', Array, Object(Event))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(19): Model->__call('update', Array)
+#6 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(19): Event->update('all')
+#7 [internal function]: EventsController->update_event()
+#8 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#9 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-01 18:49:53 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\add_event.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\add_event.ctp',
+)
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-01 18:50:28 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /CALENDARCAKE/events/update_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('update', Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('update', Array, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(609): DboSource->fetchAll('update', Array, Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(800): DboSource->query('update', Array, Object(Event))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(19): Model->__call('update', Array)
+#6 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(19): Event->update('all')
+#7 [internal function]: EventsController->update_event()
+#8 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#9 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-01 18:51:18 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\add_event.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\add_event.ctp',
+)
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-02 08:08:10 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 23]
+2014-05-02 08:08:10 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 23)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 23, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 23, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 08:14:09 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\add_event.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\add_event.ctp',
+)
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-02 08:18:34 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\add_event.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\add_event.ctp',
+)
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-02 08:18:43 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /CALENDARCAKE/events/update_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('update', Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('update', Array, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(609): DboSource->fetchAll('update', Array, Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(800): DboSource->query('update', Array, Object(Event))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(24): Model->__call('update', Array)
+#6 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(24): Event->update('all')
+#7 [internal function]: EventsController->update_event()
+#8 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#9 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-02 08:24:45 Error: Fatal Error (1): Call to a member function saveAll() on a non-object in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 21]
+2014-05-02 08:24:45 Error: [FatalErrorException] Call to a member function saveAll() on a non-object
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 21, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 21, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 08:24:51 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /CALENDARCAKE/events/update_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('update', Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('update', Array, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(609): DboSource->fetchAll('update', Array, Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(800): DboSource->query('update', Array, Object(Event))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(24): Model->__call('update', Array)
+#6 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(24): Event->update('all')
+#7 [internal function]: EventsController->update_event()
+#8 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#9 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-02 08:25:39 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\add_event.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\add_event.ctp',
+)
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-02 08:25:48 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /CALENDARCAKE/events/update_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('update', Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('update', Array, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(609): DboSource->fetchAll('update', Array, Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(800): DboSource->query('update', Array, Object(Event))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(24): Model->__call('update', Array)
+#6 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(24): Event->update('all')
+#7 [internal function]: EventsController->update_event()
+#8 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#9 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-02 08:37:41 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /CALENDARCAKE/events/update_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('update', Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(665): DboSource->execute('update', Array, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(609): DboSource->fetchAll('update', Array, Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(800): DboSource->query('update', Array, Object(Event))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(33): Model->__call('update', Array)
+#6 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(33): Event->update('all')
+#7 [internal function]: EventsController->update_event()
+#8 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#9 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#10 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-02 08:40:25 Error: Fatal Error (1): Call to a member function end() on a non-object in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\add.ctp, line 12]
+2014-05-02 08:40:25 Error: [FatalErrorException] Call to a member function end() on a non-object
+Request URL: /CALENDARCAKE/events/add
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 12)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\xampp\htdocs...', 12, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\xampp\htdocs...', 12, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 08:41:50 Error: [MissingLayoutException] Layout file "C:\xampp\htdocs\CALENDARCAKE\app\View\Layouts\empty.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Layouts\\empty.ctp',
+)
+Request URL: /CALENDARCAKE/events/add
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(504): View->_getLayoutFileName('empty')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(474): View->renderLayout('', 'empty')
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-05-02 08:42:41 Error: [MissingLayoutException] Layout file "C:\xampp\htdocs\CALENDARCAKE\app\View\Layouts\empty.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Layouts\\empty.ctp',
+)
+Request URL: /CALENDARCAKE/events/add
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(504): View->_getLayoutFileName('empty')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(474): View->renderLayout('', 'empty')
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-05-02 08:57:15 Error: [MissingLayoutException] Layout file "C:\xampp\htdocs\CALENDARCAKE\app\View\Layouts\empty.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Layouts\\empty.ctp',
+)
+Request URL: /CALENDARCAKE/events/add
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(504): View->_getLayoutFileName('empty')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(474): View->renderLayout('', 'empty')
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-05-02 09:01:45 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\CALENDARCAKE\app\View\Events\add_event.ctp, line 9]
+2014-05-02 09:01:45 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 9, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 9, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 09:03:26 Error: [MissingActionException] Action EventsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'view',
+)
+Request URL: /CALENDARCAKE/events/view/8
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 09:04:02 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\edit.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\edit.ctp',
+)
+Request URL: /CALENDARCAKE/events/edit/8
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-02 09:10:40 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 169]
+2014-05-02 09:10:40 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /CALENDARCAKE/events
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 169)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 169, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 169, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 09:10:44 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 169]
+2014-05-02 09:10:44 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /CALENDARCAKE/events
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 169)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 169, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 169, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 09:10:52 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 169]
+2014-05-02 09:10:52 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 169)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 169, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 169, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 09:13:17 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\edit.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\edit.ctp',
+)
+Request URL: /CALENDARCAKE/events/edit/8
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-02 09:18:00 Error: [MissingLayoutException] Layout file "C:\xampp\htdocs\CALENDARCAKE\app\View\Layouts\empty.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Layouts\\empty.ctp',
+)
+Request URL: /CALENDARCAKE/events/edit/8
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(504): View->_getLayoutFileName('empty')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(474): View->renderLayout('', 'empty')
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-05-02 09:18:29 Error: [MissingLayoutException] Layout file "C:\xampp\htdocs\CALENDARCAKE\app\View\Layouts\empty.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Layouts\\empty.ctp',
+)
+Request URL: /CALENDARCAKE/events/edit/8
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(504): View->_getLayoutFileName('empty')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(474): View->renderLayout('', 'empty')
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-05-02 09:25:13 Error: Fatal Error (64): Cannot redeclare EventsController::edit() in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 80]
+2014-05-02 09:25:13 Error: [FatalErrorException] Cannot redeclare EventsController::edit()
+Request URL: /CALENDARCAKE/events/edit/8
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 80)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 80, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 80, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 09:34:27 Error: [MissingActionException] Action EventsController::update_event() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'update_event',
+)
+Request URL: /CALENDARCAKE/events/update_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 13:34:01 Error: Fatal Error (4): syntax error, unexpected '{', expecting ']' in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 15]
+2014-05-02 13:34:01 Error: [FatalErrorException] syntax error, unexpected '{', expecting ']'
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 15, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 15, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 13:38:43 Error: [MissingActionException] Action EventsController::[{"id":"4","title":"event1","start":"2014-04-15","end":"2014-04-15","details":"function","user_id":"1"},{"id":"5","title":"event2","start":"2014-04-24","end":"2014-04-24","details":"Election","user_id":"1"},{"id":"7","title":"event new","start":"2014-04-07","end":"2014-04-08","details":"description new 1","user_id":"1"}]() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => '[{"id":"4","title":"event1","start":"2014-04-15","end":"2014-04-15","details":"function","user_id":"1"},{"id":"5","title":"event2","start":"2014-04-24","end":"2014-04-24","details":"Election","user_id":"1"},{"id":"7","title":"event new","start":"2014-04-07","end":"2014-04-08","details":"description new 1","user_id":"1"}]',
+)
+Request URL: /CALENDARCAKE/events/%5B%7B%22id%22:%224%22,%22title%22:%22event1%22,%22start%22:%222014-04-15%22,%22end%22:%222014-04-15%22,%22details%22:%22function%22,%22user_id%22:%221%22%7D,%7B%22id%22:%225%22,%22title%22:%22event2%22,%22start%22:%222014-04-24%22,%22end%22:%222014-04-24%22,%22details%22:%22Election%22,%22user_id%22:%221%22%7D,%7B%22id%22:%227%22,%22title%22:%22event%20new%22,%22start%22:%222014-04-07%22,%22end%22:%222014-04-08%22,%22details%22:%22description%20new%201%22,%22user_id%22:%221%22%7D%5D?start=1398537000&end=1402165800&_=1399030723127
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:27:24 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\CALENDARCAKE\app\Model\Event.php, line 22]
+2014-05-02 14:27:24 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /CALENDARCAKE/events/event?start=1398537000&end=1402165800&_=1399033644086
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:27:36 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\CALENDARCAKE\app\Model\Event.php, line 22]
+2014-05-02 14:27:36 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /CALENDARCAKE/events/event?start=1398537000&end=1402165800&_=1399033656402
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:28:34 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\CALENDARCAKE\app\Model\Event.php, line 22]
+2014-05-02 14:28:34 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /CALENDARCAKE/events/event?start=1398537000&end=1402165800&_=1399033713931
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:36:33 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\CALENDARCAKE\app\Model\Event.php, line 22]
+2014-05-02 14:36:33 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /CALENDARCAKE/events/event?start=1398537000&end=1402165800&_=1399034192832
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 14:40:36 Error: [MissingActionException] Action EventsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'login',
+)
+Request URL: /CALENDARCAKE/events/login
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 14:55:11 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 40]
+2014-05-02 14:55:11 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 40, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 40, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 15:02:50 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 34]
+2014-05-02 15:02:50 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 34)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 34, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 34, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-02 15:05:43 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /CALENDARCAKE/posts/login
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 15:13:54 Error: [MissingActionException] Action EventsController::delete() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'delete',
+)
+Request URL: /CALENDARCAKE/events/delete/2
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 10:25:08 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /CALENDARCAKE/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(3477): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(1126): Model->setDataSource('default')
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(3499): Model->setSource('users')
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Model\Model.php(1355): Model->getDataSource()
+#6 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#7 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\Helper\FormHelper.php(467): FormHelper->_introspectModel('User', 'fields')
+#8 C:\xampp\htdocs\CALENDARCAKE\app\View\Users\login.ctp(8): FormHelper->create('User', Array)
+#9 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(935): include('C:\xampp\htdocs...')
+#10 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(897): View->_evaluate('C:\xampp\htdocs...', Array)
+#11 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(466): View->_render('C:\xampp\htdocs...')
+#12 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#13 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#14 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2014-05-05 10:50:22 Error: [MissingActionException] Action UsersController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/users/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 10:51:16 Error: [MissingActionException] Action UsersController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/users/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 10:53:00 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Users\calendar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Users\\calendar.ctp',
+)
+Request URL: /CALENDARCAKE/users/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-05 10:55:18 Error: [MissingActionException] Action UsersController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/users/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 10:56:40 Error: [MissingActionException] Action UsersController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/users/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 10:58:24 Error: [MissingActionException] Action UsersController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:00:04 Error: [MissingActionException] Action UsersController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/users/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:01:22 Error: [MissingActionException] Action UsersController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/users/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:01:30 Error: [MissingActionException] Action UsersController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/users/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:02:37 Error: [MissingActionException] Action UsersController::calendar() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'calendar',
+)
+Request URL: /CALENDARCAKE/users/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:14:40 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /CALENDARCAKE/user/login/
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-05 11:17:35 Error: [MissingControllerException] Controller class CalendarController could not be found.
+Exception Attributes: array (
+  'class' => 'CalendarController',
+  'plugin' => NULL,
+)
+Request URL: /CALENDARCAKE/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-05 11:20:59 Error: [NotFoundException] Invalid Event
+Request URL: /CALENDARCAKE/events/edit
+Stack Trace:
+#0 [internal function]: EventsController->edit()
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-05 11:35:10 Error: [MissingActionException] Action EventsController::logout.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'logout.php',
+)
+Request URL: /CALENDARCAKE/events/logout.php
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:35:30 Error: [MissingActionException] Action EventsController::logout.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'logout.php',
+)
+Request URL: /CALENDARCAKE/events/logout.php
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:35:45 Error: [MissingActionException] Action EventsController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'logout',
+)
+Request URL: /CALENDARCAKE/events/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:38:13 Error: [MissingActionException] Action EventsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'login',
+)
+Request URL: /CALENDARCAKE/events/login
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:39:49 Error: [MissingActionException] Action EventsController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'logout',
+)
+Request URL: /CALENDARCAKE/events/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 11:40:59 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\logout.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\logout.ctp',
+)
+Request URL: /CALENDARCAKE/events/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-05 12:06:36 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\UsersController.php, line 76]
+2014-05-05 12:06:36 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /CALENDARCAKE/users/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 76, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-05 12:07:32 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\UsersController.php, line 75]
+2014-05-05 12:07:32 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /CALENDARCAKE/users/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 75, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 75, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-05 12:07:59 Error: [MissingActionException] Action UsersController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'display',
+)
+Request URL: /CALENDARCAKE/users/display/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:22:20 Error: [MissingActionException] Action EventsController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'logout',
+)
+Request URL: /CALENDARCAKE/events/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:23:40 Error: [MissingActionException] Action EventsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'login',
+)
+Request URL: /CALENDARCAKE/events/login
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:24:24 Error: [MissingViewException] View file "C:\xampp\htdocs\CALENDARCAKE\app\View\Events\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Events\\login.ctp',
+)
+Request URL: /CALENDARCAKE/events/login
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-05 12:50:47 Error: [MissingActionException] Action EventsController::desktop() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'desktop',
+)
+Request URL: /CALENDARCAKE/events/desktop/calendar.gif
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:52:35 Error: [MissingActionException] Action EventsController::CALENDARCAKE() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'CALENDARCAKE',
+)
+Request URL: /CALENDARCAKE/events/CALENDARCAKE/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:53:16 Error: [MissingActionException] Action EventsController::CALENDARCAKE() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'CALENDARCAKE',
+)
+Request URL: /CALENDARCAKE/events/CALENDARCAKE/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:56:04 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:56:56 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:57:42 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:58:26 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:58:45 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:59:19 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 12:59:55 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:05:11 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:06:07 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:08:37 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:08:59 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:10:15 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:11:37 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:11:53 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:12:08 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:12:24 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:12:37 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:12:50 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:13:37 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:14:35 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:15:25 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:16:39 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:17:39 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:18:10 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:18:28 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:19:56 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:36:02 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:37:53 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 13:38:17 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 14:03:54 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 14:04:39 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 14:40:11 Error: [MissingActionException] Action EventsController::calendar.jpg() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calendar.jpg',
+)
+Request URL: /CALENDARCAKE/events/calendar.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 15:17:57 Error: [NotFoundException] Invalid Event
+Request URL: /CALENDARCAKE/events/edit
+Stack Trace:
+#0 [internal function]: EventsController->edit()
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-05 15:18:13 Error: [MissingActionException] Action EventsController::update_events() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'update_events',
+)
+Request URL: /CALENDARCAKE/events/update_events
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-05 19:16:00 Error: [MissingActionException] Action EventsController::add_events() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'add_events',
+)
+Request URL: /CALENDARCAKE/events/add_events
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-06 07:48:07 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /CALENDARCAKE/
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-06 07:59:52 Error: [MissingActionException] Action EventsController::add_event() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'add_event',
+)
+Request URL: /CALENDARCAKE/events/add_event
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-06 08:13:19 Error: Fatal Error (64): Cannot redeclare EventsController::add() in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 125]
+2014-05-06 08:13:19 Error: [FatalErrorException] Cannot redeclare EventsController::add()
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 125)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 125, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 125, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-06 08:34:55 Error: [NotFoundException] Invalid event
+Request URL: /CALENDARCAKE/events/edit
+Stack Trace:
+#0 [internal function]: EventsController->edit()
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-06 08:59:36 Error: [NotFoundException] Invalid event
+Request URL: /CALENDARCAKE/events/edit
+Stack Trace:
+#0 [internal function]: EventsController->edit()
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-06 08:59:42 Error: [MissingActionException] Action EventsController::update() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'update',
+)
+Request URL: /CALENDARCAKE/events/update
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-06 09:03:22 Error: Fatal Error (64): Cannot redeclare EventsController::add() in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 125]
+2014-05-06 09:03:22 Error: [FatalErrorException] Cannot redeclare EventsController::add()
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 125)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 125, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 125, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-06 09:49:48 Error: Fatal Error (64): Cannot redeclare EventsController::add() in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 125]
+2014-05-06 09:49:48 Error: [FatalErrorException] Cannot redeclare EventsController::add()
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 125)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 125, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 125, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-06 10:05:09 Error: [MissingActionException] Action EventsController::calander() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'calander',
+)
+Request URL: /CALENDARCAKE/events/calander
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-06 12:01:34 Error: [MissingActionException] Action EventsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'login',
+)
+Request URL: /CALENDARCAKE/events/login
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-06 12:21:44 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /CALENDARCAKE/users//logout
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-06 12:37:23 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php, line 108]
+2014-05-06 12:37:23 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /CALENDARCAKE/events/calendar
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 108)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 108, Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 108, Array)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-06 12:41:32 Error: [MissingLayoutException] Layout file "C:\xampp\htdocs\CALENDARCAKE\app\View\Layouts\empty.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Layouts\\empty.ctp',
+)
+Request URL: /CALENDARCAKE/events/add
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(504): View->_getLayoutFileName('empty')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(474): View->renderLayout('', 'empty')
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-05-06 12:43:17 Error: [MissingLayoutException] Layout file "C:\xampp\htdocs\CALENDARCAKE\app\View\Layouts\empty.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\CALENDARCAKE\\app\\View\\Layouts\\empty.ctp',
+)
+Request URL: /CALENDARCAKE/events/add
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(504): View->_getLayoutFileName('empty')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\View\View.php(474): View->renderLayout('', 'empty')
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-05-06 12:57:32 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/events/delete/12
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->allowMethod('post', 'delete')
+#2 [internal function]: EventsController->delete('12')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:01:52 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/events/delete/12
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->allowMethod('post', 'delete')
+#2 [internal function]: EventsController->delete('12')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:02:33 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/events/delete/12
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->allowMethod('post', 'delete')
+#2 [internal function]: EventsController->delete('12')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:02:36 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/events/delete/12
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->allowMethod('post', 'delete')
+#2 [internal function]: EventsController->delete('12')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:02:53 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/events/delete/3
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->allowMethod('post', 'delete')
+#2 [internal function]: EventsController->delete('3')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:03:42 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/events/delete/6
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->allowMethod('post', 'delete')
+#2 [internal function]: EventsController->delete('6')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:07:13 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/events/delete/6
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->allowMethod('post', 'delete')
+#2 [internal function]: EventsController->delete('6')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:07:24 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/events/delete/12
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->allowMethod('post', 'delete')
+#2 [internal function]: EventsController->delete('12')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:10:08 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/events/delete/12
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\EventsController.php(97): CakeRequest->allowMethod('post')
+#2 [internal function]: EventsController->delete('12')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:12:23 Error: [NotFoundException] Invalid event
+Request URL: /CALENDARCAKE/events/delete/2
+Stack Trace:
+#0 [internal function]: EventsController->delete('2')
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-06 13:13:08 Error: [CakeException] Method allowMethod does not exist
+Request URL: /CALENDARCAKE/users/delete/2
+Stack Trace:
+#0 C:\xampp\htdocs\CALENDARCAKE\app\Controller\UsersController.php(97): CakeRequest->__call('allowMethod', Array)
+#1 C:\xampp\htdocs\CALENDARCAKE\app\Controller\UsersController.php(97): CakeRequest->allowMethod('post', 'delete')
+#2 [internal function]: UsersController->delete('2')
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#4 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#5 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#6 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-05-06 13:37:00 Error: [NotFoundException] Invalid event
+Request URL: /CALENDARCAKE/events/edit
+Stack Trace:
+#0 [internal function]: EventsController->edit()
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-06 13:54:37 Error: [NotFoundException] Invalid event
+Request URL: /CALENDARCAKE/events/edit
+Stack Trace:
+#0 [internal function]: EventsController->edit()
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-06 13:58:35 Error: [NotFoundException] Invalid event
+Request URL: /CALENDARCAKE/events/edit
+Stack Trace:
+#0 [internal function]: EventsController->edit()
+#1 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#2 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\CALENDARCAKE\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\CALENDARCAKE\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
